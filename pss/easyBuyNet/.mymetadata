@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="easyBuyNet"
+  id="myeclipse.1509261231559"
+  context-root="/easyBuyNet"
+  j2ee-spec="6.0"
+  archive="easyBuyNet.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
